@@ -6,7 +6,7 @@ EADME: Northwind Performance Dashboard Project
 
 Project Overview
 
-This project analyzes the Northwind Traders Database, providing insights into sales performance, customer behavior, product trends, employee contributions, shipping efficiency, and overall financial metrics. A dynamic dashboard is created using Power BI or Excel, showcasing KPIs and charts for key metrics to support data-driven decision-making.
+This project analyzes the Northwind Traders Database, providing insights into sales performance, customer behavior, product trends, employee contributions, shipping efficiency, and overall financial metrics. A dynamic dashboard is created using Excel, showcasing KPIs and charts for key metrics to support data-driven decision-making.
 Data Source
 
 The project uses the Northwind Traders Database, which includes:
