@@ -1,4 +1,4 @@
-EADME: Northwind Performance Dashboard Project
+README: Northwind Performance Dashboard Project
 
 ![North Wind](https://github.com/user-attachments/assets/c0601dca-493e-49a3-a725-ded19a964768)
 
