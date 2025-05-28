@@ -92,11 +92,10 @@ Key Insights and Metrics
 
 How to Use
 
-    Load Data: Import the Northwind Database into Power BI or Excel.
+    Load Data: Import the Northwind Database into Excel.
     SQL Queries: Run the SQL scripts provided to extract and preprocess the data.
-    Transform Data: Use Power Query (in Power BI/Excel) to clean and structure the data.
+    Transform Data: Use Power Query (Excel) to clean and structure the data.
     Visualizations:
-        Use Power BI: Create tables, charts, and maps using DAX measures for KPIs.
         Use Excel: Pivot Tables, slicers, and conditional formatting for dashboards.
 
 Key Features of the Dashboard
@@ -108,7 +107,7 @@ Key Features of the Dashboard
 File Structure
 
     SQL Queries: Scripts to generate views and extract insights.
-    Power BI/Excel File: Dashboard file containing visuals and calculated fields.
+    Excel File: Dashboard file containing visuals and calculated fields.
     README.md: Guide to understanding and using the project.
 
 Future Enhancements
@@ -124,13 +123,13 @@ Getting Started
     git clone https://github.com/<username>/Northwind-Performance-Dashboard.git
 
     Open the provided SQL scripts and execute them in your database.
-    Open the Power BI or Excel file and connect it to your data source.
+    Open the Excel file and connect it to your data source.
     Explore the insights and customize as needed.
 
 Requirements
 
     Software:
-        Power BI or Excel (2019+).
+        Excel (2019+).
         SQL Server or compatible database engine.
     Skills:
         Basic SQL knowledge.
